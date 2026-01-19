@@ -1,0 +1,2 @@
+# Ami
+aplikasi-bangundatar.py
